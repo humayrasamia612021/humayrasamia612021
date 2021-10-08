@@ -13,14 +13,3 @@ Skills: REACT / JS / HTML / CSS/Bootstrap/C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/humayrasamia612021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/humayrayesmin.samia.9/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/humayrasamia612021)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/humayrasamia612021&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/humayrasamia612021)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/humayrasamia612021)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/humayrasamia612021)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/humayrasamia612021)  
