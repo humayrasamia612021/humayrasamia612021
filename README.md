@@ -1,7 +1,7 @@
 
 ![Web developer ](https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif)
 
-###Hi there 👋, I'm Samia
+<h1 align="center"> Hi there 👋, I'm Samia </h1>
 
 I am a student and currently studying Computer Science and Engineering from Leading University. I am having courses on web developing course which is leading by Jhankar Mahbub. In the future,  I want to be a Web developer and willing to work at any renowned company.
 
