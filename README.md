@@ -1,5 +1,5 @@
 
-![Web developer ](https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif)
+![Web developer ](https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif width="40" height="40")
 
 <h1 align="center"> Hi there 👋<br> I'm Samia 😀 </h1>
 
